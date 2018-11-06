@@ -1,0 +1,3050 @@
+[
+  {
+    "gtUsername": "acornell8",
+    "name": "Addison Cornell",
+    "major": "4th Year Chemical Engineering",
+    "section": {
+      "section": "D03",
+      "location": "Klaus 1447",
+      "time": "W 6:00 pm - 7:15 pm"
+    },
+    "helpDesk": [
+      
+    ],
+    "title": "Head TA",
+    "funFacts": [
+      {
+        "question": "Favorite Matlab Function",
+        "answer": "getMostRecentFiles"
+      },
+      {
+        "question": "Favorite Hashtag",
+        "answer": "#hashtag"
+      },
+      {
+        "question": "Favorite Homework Problem",
+        "answer": "foodChain"
+      },
+      {
+        "question": "Hobbies",
+        "answer": "Anything in the Great Outdoors!"
+      },
+      {
+        "question": "Team sum(mask) or team length(vec(mask))",
+        "answer": "length(vec(mask))"
+      },
+      {
+        "question": "Which team are you on?",
+        "answer": "All the teams"
+      },
+      {
+        "question": "Favorite quote",
+        "answer": "&#39;Any dog under 50 pounds is a cat, and cats are useless&#39; -Ron Swanson"
+      },
+      {
+        "question": "I am the best in the world at:",
+        "answer": "Rock-Paper-Scissors"
+      },
+      {
+        "question": "When I was 5 years old, I wanted to be a...",
+        "answer": "Firefighter"
+      }
+    ]
+  },
+  {
+    "gtUsername": "alehman3",
+    "name": "Alex Lehman",
+    "major": "3rd Year Chemical Engineering",
+    "section": {
+      "section": "A01",
+      "location": "Van Leer C241",
+      "time": "W 4:30 pm - 5:45 pm"
+    },
+    "helpDesk": [
+      {
+        "day": "monday",
+        "time": "4 PM - 6 PM"
+      },
+      {
+        "day": "wednesday",
+        "time": "3 PM - 4 PM"
+      }
+    ],
+    "title": "",
+    "funFacts": [
+      {
+        "question": "Favorite Matlab Function",
+        "answer": "sort"
+      },
+      {
+        "question": "Favorite Homework Problem",
+        "answer": "cornMaze"
+      },
+      {
+        "question": "Hobbies",
+        "answer": "running, speedcubing, eating ice cream"
+      },
+      {
+        "question": "Team sum(mask) or team length(vec(mask))",
+        "answer": "length(vec(mask)) I guess"
+      },
+      {
+        "question": "Pro switch or anti switch",
+        "answer": "anti switch, not that it&#34;s bad, I just never used it in the class"
+      },
+      {
+        "question": "Which team are you on?",
+        "answer": "hw team"
+      },
+      {
+        "question": "Favorite quote",
+        "answer": "&#39;I believe it was Benjamin Franklin who said, &#34;You have reached the end of your free trial membership at Benjamin-Franklin-Quotes.com&#39; -Mr. Peanutbutter"
+      },
+      {
+        "question": "Favorite Song",
+        "answer": "Waiting For The End - Linkin Park"
+      },
+      {
+        "question": "Mac (*barf*) or PC?",
+        "answer": "PC"
+      },
+      {
+        "question": "When I was 5 years old, I wanted to be a...",
+        "answer": "CS1371 TA"
+      },
+      {
+        "question": "Advise to yourself while you were taking the class",
+        "answer": "do the practice tests"
+      },
+      {
+        "question": "Best Joke",
+        "answer": "Why did the chicken cross the road?  To get to the other side."
+      }
+    ]
+  },
+  {
+    "gtUsername": "arao81",
+    "name": "Alex Rao",
+    "major": "4th Year Electrical Engineering",
+    "section": {
+      "section": "C01",
+      "location": "Van Leer C340",
+      "time": "W 6:00 pm - 7:15 pm"
+    },
+    "helpDesk": [
+      
+    ],
+    "title": "Software Dev Manager",
+    "funFacts": [
+      {
+        "question": "Favorite Matlab Function",
+        "answer": "why"
+      },
+      {
+        "question": "Favorite Hashtag",
+        "answer": "#corgi"
+      },
+      {
+        "question": "Favorite Homework Problem",
+        "answer": "snowflake"
+      },
+      {
+        "question": "Hobbies",
+        "answer": "coding, hacking, and painting"
+      },
+      {
+        "question": "Most embarrassing story from middle school",
+        "answer": "My middle name is Hampton so everyone called me &34;Hammy&34;"
+      },
+      {
+        "question": "Team sum(mask) or team length(vec(mask))",
+        "answer": "sum(mask)"
+      },
+      {
+        "question": "Pro switch or anti switch",
+        "answer": "Pro switch"
+      },
+      {
+        "question": "Most embarrassing recitation story",
+        "answer": "Completely blanked on how to teach for loops"
+      },
+      {
+        "question": "Which team are you on?",
+        "answer": "Software Development"
+      },
+      {
+        "question": "Favorite quote",
+        "answer": "&#39;The only thing necessary for the triumph of evil is for good men to do nothing.&#39; -Edmund Burke"
+      },
+      {
+        "question": "Advise to your 5th grade self",
+        "answer": "Take a closer look at engineering. You might surprise yourself."
+      },
+      {
+        "question": "I cry while grading tests when...",
+        "answer": "The student pulls out the triple nested for loop"
+      },
+      {
+        "question": "Favorite Song",
+        "answer": "Time by Pink Floyd"
+      },
+      {
+        "question": "I am the best in the world at:",
+        "answer": "finding new and inventive ways to waste time"
+      },
+      {
+        "question": "Mac (*barf*) or PC?",
+        "answer": "Both"
+      },
+      {
+        "question": "This one time at band camp...",
+        "answer": "LOL American Pie"
+      },
+      {
+        "question": "When I was 5 years old, I wanted to be a...",
+        "answer": "Firefighter"
+      },
+      {
+        "question": "Advise to yourself while you were taking the class",
+        "answer": "It&#34;s not as hard as everyone else says it is."
+      },
+      {
+        "question": "Best Joke",
+        "answer": "Why do programmers get Christmas and Halloween confused? Because dec25 = oct31"
+      },
+      {
+        "question": "Advice to your 5th grade self",
+        "answer": "Keep an open mind - it might surprise you"
+      },
+      {
+        "question": "Advice to yourself while you were taking the class",
+        "answer": "Don&#34;t worry too much - things have a way of working out!"
+      }
+    ]
+  },
+  {
+    "gtUsername": "aschmitt8",
+    "name": "Amanda Schmitt",
+    "major": "3rd Year Computer Science",
+    "section": {
+      "section": "C03",
+      "location": "CoC 17",
+      "time": "R 4:30 pm - 5:45 pm"
+    },
+    "helpDesk": [
+      
+    ],
+    "title": "HW Team STA",
+    "funFacts": [
+      {
+        "question": "Favorite Matlab Function",
+        "answer": "why()"
+      },
+      {
+        "question": "Favorite Homework Problem",
+        "answer": "puzzleBox"
+      },
+      {
+        "question": "Hobbies",
+        "answer": "watching cat videos, playing board games, reading, playing video games, and MATLAB (of course)"
+      },
+      {
+        "question": "Most embarrassing story from middle school",
+        "answer": "getting locked in my own locker"
+      },
+      {
+        "question": "Team sum(mask) or team length(vec(mask))",
+        "answer": "sum(mask)"
+      },
+      {
+        "question": "Pro switch or anti switch",
+        "answer": "my opinion switches"
+      },
+      {
+        "question": "Most embarrassing recitation story",
+        "answer": "every recitation"
+      },
+      {
+        "question": "Which team are you on?",
+        "answer": "HOMEWORK TEAM!!!!!!"
+      },
+      {
+        "question": "Favorite quote",
+        "answer": "&#39;Nothing happens in contradiction to nature, only in contradiction to what we know of it.&#39; -- Dana Scully on The X-Files"
+      },
+      {
+        "question": "Advise to your 5th grade self",
+        "answer": "I can&#34;t give my past self advice without disrupting the space-time continuum"
+      },
+      {
+        "question": "I cry while grading tests when...",
+        "answer": "anyone gets anything wrong"
+      },
+      {
+        "question": "Favorite Song",
+        "answer": "Vena Cava by Lady Lamb"
+      },
+      {
+        "question": "Mac (*barf*) or PC?",
+        "answer": "Macintosh"
+      },
+      {
+        "question": "When I was 5 years old, I wanted to be a...",
+        "answer": "teacher\/actress\/scientist\/author"
+      },
+      {
+        "question": "Advise to yourself while you were taking the class",
+        "answer": "I can&#34;t give my past self advice without disrupting the space-time continuum"
+      },
+      {
+        "question": "Best Joke",
+        "answer": "what do you get when you combine a dog and a calculator? A best friend that you can count on!"
+      }
+    ]
+  },
+  {
+    "gtUsername": "avallamattam3",
+    "name": "Ashok Vallamattam",
+    "major": "4th Year Chemical Engineering",
+    "section": {
+      "section": "B06",
+      "location": "Klaus 1447",
+      "time": "W 4:30 pm - 5:45 pm"
+    },
+    "helpDesk": [
+      
+    ],
+    "title": "Course Manager",
+    "funFacts": [
+      {
+        "question": "Favorite Matlab Function",
+        "answer": "life"
+      },
+      {
+        "question": "Favorite Hashtag",
+        "answer": "#DontSleepOnDayton"
+      },
+      {
+        "question": "Favorite Homework Problem",
+        "answer": "Election"
+      },
+      {
+        "question": "Hobbies",
+        "answer": "Sleeping"
+      },
+      {
+        "question": "Team sum(mask) or team length(vec(mask))",
+        "answer": "onesVec = ones(1,length(vec)); sum(onesVec(mask));"
+      },
+      {
+        "question": "Pro switch or anti switch",
+        "answer": "Pro"
+      },
+      {
+        "question": "Most embarrassing recitation story",
+        "answer": "\"Just a man and his duck\""
+      },
+      {
+        "question": "Which team are you on?",
+        "answer": "Team Edward (Foyle)"
+      },
+      {
+        "question": "Favorite quote",
+        "answer": "&#39;If you can&#34;t blow them away with your brilliance, baffle them with your bullshit&#39; -Brandon Smith"
+      },
+      {
+        "question": "I cry while grading tests when...",
+        "answer": "B = A+A+A+A;"
+      },
+      {
+        "question": "Favorite Song",
+        "answer": "Ellie Goulding"
+      },
+      {
+        "question": "I am the best in the world at:",
+        "answer": "Sleeping"
+      },
+      {
+        "question": "When I was 5 years old, I wanted to be a...",
+        "answer": "Archaeologist"
+      }
+    ]
+  },
+  {
+    "gtUsername": "busluel3",
+    "name": "Baran Usluel",
+    "major": "2nd Year Electrical Engineering",
+    "section": {
+      "section": "B02",
+      "location": "Van Leer C241",
+      "time": "R 6:00 pm - 7:15 pm"
+    },
+    "helpDesk": [
+      {
+        "day": "monday",
+        "time": "5 PM - 7 PM"
+      },
+      {
+        "day": "thursday",
+        "time": "2 PM - 3 PM"
+      }
+    ],
+    "title": "",
+    "funFacts": [
+      {
+        "question": "Favorite Matlab Function",
+        "answer": "getMostRecentFiles"
+      },
+      {
+        "question": "Hobbies",
+        "answer": "coding, making, singing, ultimate"
+      },
+      {
+        "question": "Team sum(mask) or team length(vec(mask))",
+        "answer": "length(vec(mask))"
+      },
+      {
+        "question": "Pro switch or anti switch",
+        "answer": "pro switch obv"
+      },
+      {
+        "question": "Which team are you on?",
+        "answer": "homework team"
+      },
+      {
+        "question": "Mac (*barf*) or PC?",
+        "answer": "PC (thinkpad)"
+      },
+      {
+        "question": "When I was 5 years old, I wanted to be a...",
+        "answer": "engineer"
+      }
+    ]
+  },
+  {
+    "gtUsername": "cs41",
+    "name": "Cedric Stallworth",
+    "major": "20th year CS Major",
+    "section": {
+      "section": "A01-A05",
+      "location": "CCB 16",
+      "time": "MWF 9:05am-9:55am"
+    },
+    "helpDesk": [
+      
+    ],
+    "title": "Instructor",
+    "funFacts": [
+      {
+        "question": "Favorite Matlab Function",
+        "answer": "strtok"
+      },
+      {
+        "question": "Favorite Hashtag",
+        "answer": "#strtok"
+      },
+      {
+        "question": "Favorite Homework Problem",
+        "answer": "The one with strtok"
+      },
+      {
+        "question": "Hobbies",
+        "answer": "I like long walks on the strtok, strtokking in the woods, and just really a good strtok whenever I get the chance."
+      },
+      {
+        "question": "Most embarrassing story from middle school",
+        "answer": "One time I was walking down the hall and accidently spilled my strtok all over the floor"
+      },
+      {
+        "question": "Team sum(mask) or team length(vec(mask))",
+        "answer": "There is no other function but strtok"
+      },
+      {
+        "question": "Pro switch or anti switch",
+        "answer": "Pro strtok"
+      },
+      {
+        "question": "Most embarrassing recitation story",
+        "answer": "One time I was teaching and almost forgot to strtok. So embarrassing."
+      },
+      {
+        "question": "Which team are you on?",
+        "answer": "The only team. Jacob. JK strtok"
+      },
+      {
+        "question": "Favorite quote",
+        "answer": "&#39;To strtok, or not to strtok, that is the question. Wait that isn&#34;t a question, always strtok&#39;"
+      },
+      {
+        "question": "Advise to your 5th grade self",
+        "answer": "Remember to floss your strtok every day."
+      },
+      {
+        "question": "I cry while grading tests when...",
+        "answer": "there isn&#34;t any strtok. So I add it myself."
+      },
+      {
+        "question": "Favorite Song",
+        "answer": "&#39;Sugar pie honey strtok&#39;"
+      },
+      {
+        "question": "I am the best in the world at:",
+        "answer": "I am an olympic strtoker. My strtoks are heard around the world."
+      },
+      {
+        "question": "Mac (*barf*) or PC?",
+        "answer": "Any computer with a strtok."
+      },
+      {
+        "question": "This one time at band camp...",
+        "answer": "Why was I at bandcamp when I could have been strtoking."
+      },
+      {
+        "question": "When I was 5 years old, I wanted to be a...",
+        "answer": "Astronaut. Just kidding, there are no strtoks in space."
+      },
+      {
+        "question": "Advise to yourself while you were taking the class",
+        "answer": "Make sure you include a strtok on every line."
+      },
+      {
+        "question": "Best Joke",
+        "answer": "Why did the chicken cross the road? To get to the other strtok"
+      }
+    ]
+  },
+  {
+    "gtUsername": "cokechukwu3",
+    "name": "Chima Okechukwu",
+    "major": "3rd Year Aerospace Engineering",
+    "section": {
+      "section": "B04",
+      "location": "Arch East 207",
+      "time": "R 4:30 pm - 5:45 pm"
+    },
+    "helpDesk": [
+      {
+        "day": "tuesday",
+        "time": "2 PM - 3 PM"
+      },
+      {
+        "day": "wednesday",
+        "time": "7 PM - 8 PM"
+      },
+      {
+        "day": "friday",
+        "time": "4 PM - 5 PM"
+      }
+    ],
+    "title": "",
+    "funFacts": [
+      {
+        "question": "Favorite Matlab Function",
+        "answer": "Why"
+      },
+      {
+        "question": "Favorite Hashtag",
+        "answer": "#matlabisbae"
+      },
+      {
+        "question": "Favorite Homework Problem",
+        "answer": "Celery"
+      },
+      {
+        "question": "Hobbies",
+        "answer": "Sleeping"
+      },
+      {
+        "question": "Most embarrassing story from middle school",
+        "answer": "Being scolded in front of friends"
+      },
+      {
+        "question": "Team sum(mask) or team length(vec(mask))",
+        "answer": "sum(mask)"
+      },
+      {
+        "question": "Pro switch or anti switch",
+        "answer": "Anti"
+      },
+      {
+        "question": "Which team are you on?",
+        "answer": "Homework"
+      },
+      {
+        "question": "Favorite quote",
+        "answer": "Why do tomorrow what you can do today"
+      },
+      {
+        "question": "Advise to your 5th grade self",
+        "answer": "Stay in school"
+      },
+      {
+        "question": "I cry while grading tests when...",
+        "answer": "Someone spells function with a capital F"
+      },
+      {
+        "question": "Favorite Song",
+        "answer": "Perfect"
+      },
+      {
+        "question": "I am the best in the world at:",
+        "answer": "Sleeping \u001a"
+      },
+      {
+        "question": "Mac (*barf*) or PC?",
+        "answer": "Mac \u001a is the best"
+      },
+      {
+        "question": "When I was 5 years old, I wanted to be a...",
+        "answer": "Famous"
+      },
+      {
+        "question": "Advise to yourself while you were taking the class",
+        "answer": "Sleep isn&#34;t due"
+      },
+      {
+        "question": "Best Joke",
+        "answer": "You"
+      }
+    ]
+  },
+  {
+    "gtUsername": "dvam3",
+    "name": "Daniel Alayo-Matos",
+    "major": "3rd Year Industrial Engineering",
+    "section": {
+      "section": "LWT",
+      "location": "TBD",
+      "time": "TBD"
+    },
+    "helpDesk": [
+      {
+        "day": "monday",
+        "time": "2 PM - 4 PM"
+      },
+      {
+        "day": "wednesday",
+        "time": "2 PM - 3 PM"
+      }
+    ],
+    "title": "",
+    "funFacts": [
+      {
+        "question": "Favorite Matlab Function",
+        "answer": "cumtrapz"
+      },
+      {
+        "question": "Favorite Hashtag",
+        "answer": "#wethebest"
+      },
+      {
+        "question": "Favorite Homework Problem",
+        "answer": "Clock Hands"
+      },
+      {
+        "question": "Hobbies",
+        "answer": "Reading, drawing triangles, listening to other people&#34;s conversations"
+      },
+      {
+        "question": "Most embarrassing story from middle school",
+        "answer": "Never went to middle school :("
+      },
+      {
+        "question": "Team sum(mask) or team length(vec(mask))",
+        "answer": "sum(mask)"
+      },
+      {
+        "question": "Pro switch or anti switch",
+        "answer": "PRO"
+      },
+      {
+        "question": "Which team are you on?",
+        "answer": "Test"
+      },
+      {
+        "question": "Favorite quote",
+        "answer": "&#39;If someone tells you who they are, believe them&#39;"
+      },
+      {
+        "question": "Advise to your 5th grade self",
+        "answer": "Get out of your room more."
+      },
+      {
+        "question": "I cry while grading tests when...",
+        "answer": "I don&#34;t really cry... more laugh uncontrollably."
+      },
+      {
+        "question": "Favorite Song",
+        "answer": "Jefferson Airplane - Spare Chaynge"
+      },
+      {
+        "question": "I am the best in the world at:",
+        "answer": "Spitting sick fire."
+      },
+      {
+        "question": "Mac (*barf*) or PC?",
+        "answer": "PC"
+      },
+      {
+        "question": "This one time at band camp...",
+        "answer": "I beat up all the band kids."
+      },
+      {
+        "question": "When I was 5 years old, I wanted to be a...",
+        "answer": "Dad."
+      },
+      {
+        "question": "Advise to yourself while you were taking the class",
+        "answer": "Go to help desk"
+      },
+      {
+        "question": "Best Joke",
+        "answer": "Two muffins are cooking in an oven. One muffin says to the other, hey its getting kind of hot in here. The other muffin responds &#39;AHHHHHH!!!! A TALKING MUFFIN!!!&#39;"
+      },
+      {
+        "question": "Most embarrassing recitation story",
+        "answer": "I got called out by a student for being too short."
+      },
+      {
+        "question": "Advice to your 5th grade self",
+        "answer": "Dump your gf, it will not last, 5th grade love is NOT real!!"
+      },
+      {
+        "question": "Advice to yourself while you were taking the class",
+        "answer": "Do the homework"
+      }
+    ]
+  },
+  {
+    "gtUsername": "ds182",
+    "name": "David Smith",
+    "major": "54th Year Aerospace Engineer",
+    "section": {
+      "section": "C01-C05, D01-D05",
+      "location": "Clough Commons 152",
+      "time": "MWF 1:55pm - 2:45pm"
+    },
+    "helpDesk": [
+      
+    ],
+    "title": "Instructor",
+    "funFacts": [
+      {
+        "question": "Favorite Matlab Function",
+        "answer": "~textscan"
+      },
+      {
+        "question": "Favorite Hashtag",
+        "answer": "a what?"
+      },
+      {
+        "question": "Favorite Homework Problem",
+        "answer": "TNT"
+      },
+      {
+        "question": "Hobbies",
+        "answer": "MATLAB modeling"
+      },
+      {
+        "question": "Team sum(mask) or team length(vec(mask))",
+        "answer": "neither - length(find(mask))"
+      },
+      {
+        "question": "Pro switch or anti switch",
+        "answer": "switch to what?  FORTRAN?"
+      },
+      {
+        "question": "Favorite quote",
+        "answer": "&#39;Never give up ... never give up ... never give up.&#39; Winston Churchill at the Oxford Union."
+      },
+      {
+        "question": "Advise to your 5th grade self",
+        "answer": "Grow up. Quickly."
+      },
+      {
+        "question": "Favorite Song",
+        "answer": "Revelation Song"
+      },
+      {
+        "question": "Mac (*barf*) or PC?",
+        "answer": "~barf"
+      },
+      {
+        "question": "This one time at band camp...",
+        "answer": "banned camp?"
+      },
+      {
+        "question": "Advise to yourself while you were taking the class",
+        "answer": "Shouldn&#34;t that be &#34;advice&#34;?"
+      },
+      {
+        "question": "Best Joke",
+        "answer": "I sent 10 puns to a friend hoping one would make him laugh, but no pun in ten did."
+      }
+    ]
+  },
+  {
+    "gtUsername": "mbhuyan7",
+    "name": "Dolly Bhuyan",
+    "major": "3rd Year Chemical Engineering",
+    "section": {
+      "section": "A05",
+      "location": "Van Leer C340",
+      "time": "W 4:30 pm - 5:45 pm"
+    },
+    "helpDesk": [
+      {
+        "day": "monday",
+        "time": "6 PM - 7 PM"
+      },
+      {
+        "day": "friday",
+        "time": "3 PM - 5 PM"
+      }
+    ],
+    "title": "",
+    "funFacts": [
+      {
+        "question": "Favorite Matlab Function",
+        "answer": "why()"
+      },
+      {
+        "question": "Hobbies",
+        "answer": "sleeping, eating"
+      },
+      {
+        "question": "Team sum(mask) or team length(vec(mask))",
+        "answer": "sum(mask)"
+      },
+      {
+        "question": "Pro switch or anti switch",
+        "answer": "anti-switch"
+      },
+      {
+        "question": "Which team are you on?",
+        "answer": "test team"
+      },
+      {
+        "question": "Favorite quote",
+        "answer": "&#39;Don&#34;t quit. Suffer now and live the rest of your life as a champion.&#39;"
+      },
+      {
+        "question": "Advise to your 5th grade self",
+        "answer": "(*advice) you do you."
+      },
+      {
+        "question": "Favorite Song",
+        "answer": "the opening song in Lion King"
+      },
+      {
+        "question": "Mac (*barf*) or PC?",
+        "answer": "PC"
+      },
+      {
+        "question": "When I was 5 years old, I wanted to be a...",
+        "answer": "teacher :)"
+      },
+      {
+        "question": "Advise to yourself while you were taking the class",
+        "answer": "(*advice) start homework early, go to recitation, do practice tests"
+      },
+      {
+        "question": "Best Joke",
+        "answer": "a degree from UGA"
+      }
+    ]
+  },
+  {
+    "gtUsername": "ewilson72",
+    "name": "Ethan Wilson",
+    "major": "3rd Year Computational Media",
+    "section": {
+      "section": "B01",
+      "location": "Cherry Emerson 320",
+      "time": "R 4:30 pm - 5:45 pm"
+    },
+    "helpDesk": [
+      {
+        "day": "tuesday",
+        "time": "2 PM - 4 PM"
+      },
+      {
+        "day": "thursday",
+        "time": "2 PM - 3 PM"
+      }
+    ],
+    "title": "",
+    "funFacts": [
+      {
+        "question": "Favorite Matlab Function",
+        "answer": "Help"
+      },
+      {
+        "question": "Favorite Hashtag",
+        "answer": "#soccermoms"
+      },
+      {
+        "question": "Favorite Homework Problem",
+        "answer": "Anything written by Daniel P"
+      },
+      {
+        "question": "Hobbies",
+        "answer": "Climbing, running, swimming, art, public intoxication, cooking"
+      },
+      {
+        "question": "Most embarrassing story from middle school",
+        "answer": "One time I was at a chili&#34;s and had a crush on my waitress, and I tried to hit on her but really I just got scared and ordered the wrong thing"
+      },
+      {
+        "question": "Team sum(mask) or team length(vec(mask))",
+        "answer": "sum(mask)"
+      },
+      {
+        "question": "Pro switch or anti switch",
+        "answer": "Pro. It looks cooler"
+      },
+      {
+        "question": "Most embarrassing recitation story",
+        "answer": "My brain committed sudoku once and I had to sit down and remember where I was"
+      },
+      {
+        "question": "Which team are you on?",
+        "answer": "Test team "
+      },
+      {
+        "question": "Favorite quote",
+        "answer": "&#39;I just want to do hoodrat things with my friends&#39;"
+      },
+      {
+        "question": "Advise to your 5th grade self",
+        "answer": "Don&#34;t cut hair"
+      },
+      {
+        "question": "I cry while grading tests when...",
+        "answer": "We run out of pizza"
+      },
+      {
+        "question": "Favorite Song",
+        "answer": "Old timer - Willie Nelson"
+      },
+      {
+        "question": "I am the best in the world at:",
+        "answer": "I am the best overall person"
+      },
+      {
+        "question": "Mac (*barf*) or PC?",
+        "answer": "PC"
+      },
+      {
+        "question": "When I was 5 years old, I wanted to be a...",
+        "answer": "Exotic animal breeder (still do kind of)"
+      },
+      {
+        "question": "Advise to yourself while you were taking the class",
+        "answer": "Don&#34;t cut hair"
+      },
+      {
+        "question": "Best Joke",
+        "answer": "My life is one big joke"
+      }
+    ]
+  },
+  {
+    "gtUsername": "hwhite35",
+    "name": "Hannah White",
+    "major": "3rd Year Biomedical Engineering",
+    "section": {
+      "section": "C05",
+      "location": "Cherry Emerson 320",
+      "time": "W 6:00 pm - 7:15 pm"
+    },
+    "helpDesk": [
+      {
+        "day": "monday",
+        "time": "4 PM - 5 PM"
+      },
+      {
+        "day": "wednesday",
+        "time": "3 PM - 5 PM"
+      }
+    ],
+    "title": "",
+    "funFacts": [
+      {
+        "question": "Favorite Matlab Function",
+        "answer": "fifteen"
+      },
+      {
+        "question": "Favorite Hashtag",
+        "answer": "#shocker"
+      },
+      {
+        "question": "Favorite Homework Problem",
+        "answer": "play2048"
+      },
+      {
+        "question": "Team sum(mask) or team length(vec(mask))",
+        "answer": "length(vec(mask))"
+      },
+      {
+        "question": "Which team are you on?",
+        "answer": "Homework Team!! (HTTWMTHTDW)"
+      },
+      {
+        "question": "I cry while grading tests when...",
+        "answer": "vec(mask==1) (really just if any logical == 1)"
+      },
+      {
+        "question": "I am the best in the world at:",
+        "answer": "Giving hugs!"
+      },
+      {
+        "question": "Mac (*barf*) or PC?",
+        "answer": "Mac :)"
+      },
+      {
+        "question": "When I was 5 years old, I wanted to be a...",
+        "answer": "A famous singer (and no, I cannot sing)"
+      },
+      {
+        "question": "Best Joke",
+        "answer": "knock knock, who&#34;s there, Dwayne, Dwayne who?, dwayne the tub I&#34;m dwowning!!!"
+      },
+      {
+        "question": "Hobbies",
+        "answer": "Eating cookout (is that a hobby...?)"
+      },
+      {
+        "question": "Pro switch or anti switch",
+        "answer": "Pro switch"
+      },
+      {
+        "question": "Advice to yourself while you were taking the class",
+        "answer": "Do the homework before the day its due "
+      }
+    ]
+  },
+  {
+    "gtUsername": "jpetrillo3",
+    "name": "Juliana Petrillo",
+    "major": "3rd Year Computer Science",
+    "section": {
+      "section": "C02",
+      "location": "Howey L5",
+      "time": "W 4:30 pm - 5:45 pm"
+    },
+    "helpDesk": [
+      {
+        "day": "tuesday",
+        "time": "3 PM - 4 PM"
+      },
+      {
+        "day": "thursday",
+        "time": "3 PM - 5 PM"
+      }
+    ],
+    "title": "",
+    "funFacts": [
+      {
+        "question": "Favorite Matlab Function",
+        "answer": "magic()"
+      },
+      {
+        "question": "Favorite Homework Problem",
+        "answer": "pokemonBattle()"
+      },
+      {
+        "question": "Hobbies",
+        "answer": "Tennis, knitting, cooking"
+      },
+      {
+        "question": "Pro switch or anti switch",
+        "answer": "Pro switch"
+      },
+      {
+        "question": "Which team are you on?",
+        "answer": "Homework Team"
+      },
+      {
+        "question": "Mac (*barf*) or PC?",
+        "answer": "PC"
+      },
+      {
+        "question": "When I was 5 years old, I wanted to be a...",
+        "answer": "Actress"
+      },
+      {
+        "question": "I cry while grading tests when...",
+        "answer": "I see &#39;== true&#39;"
+      },
+      {
+        "question": "I am the best in the world at:",
+        "answer": "baking cookies"
+      }
+    ]
+  },
+  {
+    "gtUsername": "jhtay3",
+    "name": "Justin Htay",
+    "major": "3rd Year Electrical Engineering &#34;amp; Mathematics",
+    "section": {
+      "section": "D05",
+      "location": "Mason 5134",
+      "time": "R 4:30 pm - 7:15 pm"
+    },
+    "helpDesk": [
+      {
+        "day": "tuesday",
+        "time": "5 PM - 6 PM"
+      },
+      {
+        "day": "wednesday",
+        "time": "6 PM - 8 PM"
+      }
+    ],
+    "title": "",
+    "funFacts": [
+      {
+        "question": "Favorite Matlab Function",
+        "answer": "fft"
+      },
+      {
+        "question": "Favorite Hashtag",
+        "answer": "F#"
+      },
+      {
+        "question": "Favorite Homework Problem",
+        "answer": "harmony"
+      },
+      {
+        "question": "Hobbies",
+        "answer": "Piano, Video Games, and chess"
+      },
+      {
+        "question": "Most embarrassing story from middle school",
+        "answer": "I was playing piano for a school event and messed up horribly"
+      },
+      {
+        "question": "Team sum(mask) or team length(vec(mask))",
+        "answer": "sum(mask)"
+      },
+      {
+        "question": "Pro switch or anti switch",
+        "answer": "Anti switch"
+      },
+      {
+        "question": "Most embarrassing recitation story",
+        "answer": "Too many to choose from..."
+      },
+      {
+        "question": "Which team are you on?",
+        "answer": "Homework Team Teamwork makes the Homework Team Dream Work!"
+      },
+      {
+        "question": "Favorite quote",
+        "answer": "Anything in Analects"
+      },
+      {
+        "question": "Advice to your 5th grade self",
+        "answer": "Start doing Math competitions now..."
+      },
+      {
+        "question": "I cry while grading tests when...",
+        "answer": "When a student writes their 900 number instead of their GT Username"
+      },
+      {
+        "question": "Favorite Song",
+        "answer": "Piano Sonata No. 21 in C Major, Op. 53 (Waldstein) by Beethoven"
+      },
+      {
+        "question": "I am the best in the world at:",
+        "answer": "Patching the Homework Generator"
+      },
+      {
+        "question": "Mac (*barf*) or PC?",
+        "answer": "LINUX"
+      },
+      {
+        "question": "This one time at band camp...",
+        "answer": "I dated the drum major"
+      },
+      {
+        "question": "When I was 5 years old, I wanted to be a...",
+        "answer": "Baseball player"
+      },
+      {
+        "question": "Advice to yourself while you were taking the class",
+        "answer": "It&#34;s &#34;extrap&#34;, not &#34;extrapolation&#34;"
+      },
+      {
+        "question": "Best Joke",
+        "answer": "There are two muffins sitting in an oven. One muffin says, &#39;My, it&#34;s hot in here!&#39;. The other muffin says, &#39;Holy Cow! A Talking Muffin!&#39;"
+      }
+    ]
+  },
+  {
+    "gtUsername": "krogers34",
+    "name": "Kantwon Rogers",
+    "major": "7th year Masters in Human Computer Interaction",
+    "section": {
+      "section": "B01-B06",
+      "location": "Clough Commons 152",
+      "time": "MWF 10:10am-11:00am"
+    },
+    "helpDesk": [
+      
+    ],
+    "title": "Instructor",
+    "funFacts": [
+      {
+        "question": "Favorite Matlab Function",
+        "answer": "strtok"
+      },
+      {
+        "question": "Favorite Hashtag",
+        "answer": "#strtok"
+      },
+      {
+        "question": "Favorite Homework Problem",
+        "answer": "The one with strtok"
+      },
+      {
+        "question": "Hobbies",
+        "answer": "I like long walks on the strtok, strtokking in the woods, and just really a good strtok whenever I get the chance."
+      },
+      {
+        "question": "Most embarrassing story from middle school",
+        "answer": "One time I was walking down the hall and accidently spilled my strtok all over the floor"
+      },
+      {
+        "question": "Team sum(mask) or team length(vec(mask))",
+        "answer": "There is no other function but strtok"
+      },
+      {
+        "question": "Pro switch or anti switch",
+        "answer": "Pro strtok"
+      },
+      {
+        "question": "Most embarrassing recitation story",
+        "answer": "One time I was teaching and almost forgot to strtok. So embarrassing."
+      },
+      {
+        "question": "Which team are you on?",
+        "answer": "The only team. Jacob. JK strtok"
+      },
+      {
+        "question": "Favorite quote",
+        "answer": "&#39;To strtok, or not to strtok, that is the question. Wait that isn&#34;t a question, always strtok&#39;"
+      },
+      {
+        "question": "Advise to your 5th grade self",
+        "answer": "Remember to floss your strtok every day."
+      },
+      {
+        "question": "I cry while grading tests when...",
+        "answer": "there isn&#34;t any strtok. So I add it myself."
+      },
+      {
+        "question": "Favorite Song",
+        "answer": "&#39;Sugar pie honey strtok&#39;"
+      },
+      {
+        "question": "I am the best in the world at:",
+        "answer": "I am an olympic strtoker. My strtoks are heard around the world."
+      },
+      {
+        "question": "Mac (*barf*) or PC?",
+        "answer": "Any computer with a strtok."
+      },
+      {
+        "question": "This one time at band camp...",
+        "answer": "Why was I at bandcamp when I could have been strtoking."
+      },
+      {
+        "question": "When I was 5 years old, I wanted to be a...",
+        "answer": "Astronaut. Just kidding, there are no strtoks in space."
+      },
+      {
+        "question": "Advise to yourself while you were taking the class",
+        "answer": "Make sure you include a strtok on every line."
+      },
+      {
+        "question": "Best Joke",
+        "answer": "Why did the chicken cross the road? To get to the other strtok"
+      }
+    ]
+  },
+  {
+    "gtUsername": "kshah88",
+    "name": "Karan Shah",
+    "major": "5th Year Computer Engineering",
+    "section": {
+      "section": "B03",
+      "location": "Whitaker BME 1103",
+      "time": "W 4:30 pm - 5:45 pm"
+    },
+    "helpDesk": [
+      {
+        "day": "monday",
+        "time": "2 PM - 3 PM"
+      },
+      {
+        "day": "monday",
+        "time": "4 PM - 5 PM"
+      },
+      {
+        "day": "wednesday",
+        "time": "4 PM - 5 PM"
+      }
+    ],
+    "title": "",
+    "funFacts": [
+      {
+        "question": "Favorite Matlab Function",
+        "answer": "why "
+      },
+      {
+        "question": "Team sum(mask) or team length(vec(mask))",
+        "answer": "sum(mask)"
+      },
+      {
+        "question": "Pro switch or anti switch",
+        "answer": "pro switch"
+      },
+      {
+        "question": "Which team are you on?",
+        "answer": "Test Team Best Team"
+      },
+      {
+        "question": "I am the best in the world at:",
+        "answer": "Making Star Wars noises"
+      },
+      {
+        "question": "Mac (*barf*) or PC?",
+        "answer": "Mac"
+      },
+      {
+        "question": "Advise to yourself while you were taking the class",
+        "answer": "Start homework earlier"
+      },
+      {
+        "question": "I cry while grading tests when...",
+        "answer": "Capitalized F in function headers"
+      },
+      {
+        "question": "When I was 5 years old, I wanted to be a...",
+        "answer": "Astronaut"
+      }
+    ]
+  },
+  {
+    "gtUsername": "mnugent8",
+    "name": "Maggie Nugent",
+    "major": "3rd Year Biomedical Engineering",
+    "section": {
+      "section": "LWT",
+      "location": "TBD",
+      "time": "TBD"
+    },
+    "helpDesk": [
+      {
+        "day": "monday",
+        "time": "4 PM - 6 PM"
+      },
+      {
+        "day": "wednesday",
+        "time": "2 PM - 3 PM"
+      }
+    ],
+    "title": "",
+    "funFacts": [
+      {
+        "question": "Favorite Matlab Function",
+        "answer": "help"
+      },
+      {
+        "question": "Favorite Hashtag",
+        "answer": "I don&#34;t think I&#34;ve ever really used a hashtag"
+      },
+      {
+        "question": "Favorite Homework Problem",
+        "answer": "any of the ABCs"
+      },
+      {
+        "question": "Hobbies",
+        "answer": "reading, watching Netflix, eating"
+      },
+      {
+        "question": "Team sum(mask) or team length(vec(mask))",
+        "answer": "length(vec(mask))"
+      },
+      {
+        "question": "Pro switch or anti switch",
+        "answer": "anti switch"
+      },
+      {
+        "question": "Most embarrassing recitation story",
+        "answer": "I don&#34;t really have one yet, but I&#34;m sure there will be many to come in the future."
+      },
+      {
+        "question": "Which team are you on?",
+        "answer": "test team"
+      },
+      {
+        "question": "Favorite quote",
+        "answer": "&#39;You&#34;re just as sane as I am.&#39; - Luna Lovegood"
+      },
+      {
+        "question": "I cry while grading tests when...",
+        "answer": "students mess up their function headers"
+      },
+      {
+        "question": "Favorite Song",
+        "answer": "Carry on Wayward Son"
+      },
+      {
+        "question": "I am the best in the world at:",
+        "answer": "referencing random Vines, but usually only when I&#34;m around people who won&#34;t get the references"
+      },
+      {
+        "question": "Mac (*barf*) or PC?",
+        "answer": "PC"
+      },
+      {
+        "question": "This one time at band camp...",
+        "answer": "I hated band camp so much that I celebrated when we were evacuated early due to an incoming hurricane."
+      },
+      {
+        "question": "When I was 5 years old, I wanted to be a...",
+        "answer": "naturalist"
+      },
+      {
+        "question": "Advise to yourself while you were taking the class",
+        "answer": "Go to help desk"
+      },
+      {
+        "question": "Best Joke",
+        "answer": "What did the shy pebble wish? That she could be a little bo(u)lder."
+      },
+      {
+        "question": "Most embarrassing story from middle school",
+        "answer": "One time in gym class I accidentally broke my own finger against my own knee."
+      },
+      {
+        "question": "Advice to your 5th grade self",
+        "answer": "You will come to regret wishing you could get braces (although your teeth will look great)"
+      },
+      {
+        "question": "Advice to yourself while you were taking the class",
+        "answer": "Go to help desk!"
+      }
+    ]
+  },
+  {
+    "gtUsername": "mkumar77",
+    "name": "Meha Kumar",
+    "major": "3rd Year Computer Science",
+    "section": {
+      "section": "B03",
+      "location": "Whitaker BME 1103",
+      "time": "W 4:30 pm - 5:45 pm"
+    },
+    "helpDesk": [
+      
+    ],
+    "title": "Test Team STA",
+    "funFacts": [
+      {
+        "question": "Favorite Hashtag",
+        "answer": "Don&#34;t know how to use a hashtag, only know how to %comment"
+      },
+      {
+        "question": "Favorite Homework Problem",
+        "answer": "criminalMinds"
+      },
+      {
+        "question": "Hobbies",
+        "answer": "Running, crafts, MATLAB"
+      },
+      {
+        "question": "Pro switch or anti switch",
+        "answer": "anti switch"
+      },
+      {
+        "question": "Which team are you on?",
+        "answer": "Test team"
+      },
+      {
+        "question": "Mac (*barf*) or PC?",
+        "answer": "PC"
+      },
+      {
+        "question": "This one time at band camp...",
+        "answer": "plz I went to MATLAB camp"
+      },
+      {
+        "question": "Advise to yourself while you were taking the class",
+        "answer": "Feel free to do a little dance when your code works :)"
+      },
+      {
+        "question": "Best Joke",
+        "answer": "Q: What did the lake say to the river? A: Water you doing?"
+      }
+    ]
+  },
+  {
+    "gtUsername": "oahmed32",
+    "name": "Omar Ahmed",
+    "major": "3rd Year Biomedical Engineering",
+    "section": {
+      "section": "B02",
+      "location": "Van Leer C241",
+      "time": "R 6:00 pm - 7:15 pm"
+    },
+    "helpDesk": [
+      {
+        "day": "monday",
+        "time": "3 PM - 4 PM"
+      },
+      {
+        "day": "wednesday",
+        "time": "5 PM - 7 PM"
+      }
+    ],
+    "title": "",
+    "funFacts": [
+      {
+        "question": "Favorite Matlab Function",
+        "answer": "cumtrapz()"
+      },
+      {
+        "question": "Favorite Hashtag",
+        "answer": "#notmypresident"
+      },
+      {
+        "question": "Favorite Homework Problem",
+        "answer": "March Madness"
+      },
+      {
+        "question": "Most embarrassing story from middle school",
+        "answer": "I actually peaked in middle school. The embarrassing parts have been everything since."
+      },
+      {
+        "question": "Favorite quote",
+        "answer": "&#39;True confidence leaves no room for jealousy&#39;"
+      },
+      {
+        "question": "Advise to your 5th grade self",
+        "answer": "The cheeks won&#34;t go away, stop pretending like they will"
+      },
+      {
+        "question": "Favorite Song",
+        "answer": "Bohemian Rhapsody "
+      },
+      {
+        "question": "Mac (*barf*) or PC?",
+        "answer": "Mac"
+      },
+      {
+        "question": "Best Joke",
+        "answer": "He who goes to bed with an itchy bottom wakes up with a smelly finger"
+      },
+      {
+        "question": "Hobbies",
+        "answer": "Recreational whistling, scrolling through Netflix for 15 minutes before picking the office again, and moat digging."
+      },
+      {
+        "question": "Team sum(mask) or team length(vec(mask))",
+        "answer": "sum(mask)"
+      },
+      {
+        "question": "Pro switch or anti switch",
+        "answer": "Pro"
+      },
+      {
+        "question": "Most embarrassing recitation story",
+        "answer": "I once spoke 0 total words during an entire recitation and let my co-TA do it all"
+      },
+      {
+        "question": "Which team are you on?",
+        "answer": "Test"
+      },
+      {
+        "question": "Advice to your 5th grade self",
+        "answer": "She grows up to be super attractive so go for it "
+      },
+      {
+        "question": "I cry while grading tests when...",
+        "answer": "People leave multiple choice questions blank"
+      },
+      {
+        "question": "I am the best in the world at:",
+        "answer": "Guitar Hero"
+      },
+      {
+        "question": "This one time at band camp...",
+        "answer": "A bunch of nerds went to band camp"
+      },
+      {
+        "question": "When I was 5 years old, I wanted to be a...",
+        "answer": "Matlab TA"
+      }
+    ]
+  },
+  {
+    "gtUsername": "pkoplik3",
+    "name": "Peter Koplik",
+    "major": "5th Year Computer Science",
+    "section": {
+      "section": "A02",
+      "location": "Van Leer C240",
+      "time": "W 6:00 pm - 7:15 pm"
+    },
+    "helpDesk": [
+      {
+        "day": "monday",
+        "time": "4 PM - 5 PM"
+      },
+      {
+        "day": "monday",
+        "time": "6 PM - 7 PM"
+      },
+      {
+        "day": "tuesday",
+        "time": "4 PM - 5 PM"
+      }
+    ],
+    "title": "",
+    "funFacts": [
+      {
+        "question": "Favorite Matlab Function",
+        "answer": "fmincon"
+      },
+      {
+        "question": "Favorite Hashtag",
+        "answer": "#follow"
+      },
+      {
+        "question": "Favorite Homework Problem",
+        "answer": "Where&#34;s waldo"
+      },
+      {
+        "question": "Hobbies",
+        "answer": "Lacrosse, chess"
+      },
+      {
+        "question": "Most embarrassing story from middle school",
+        "answer": "I broke a window in the band room with a bouncy ball. I thought it would bounce but alas! It did not."
+      },
+      {
+        "question": "Team sum(mask) or team length(vec(mask))",
+        "answer": "sum(mask)"
+      },
+      {
+        "question": "Pro switch or anti switch",
+        "answer": "anti-switch"
+      },
+      {
+        "question": "Most embarrassing recitation story",
+        "answer": "Fortunately, I don&#34;#39;t have one. Yet... "
+      },
+      {
+        "question": "Which team are you on?",
+        "answer": "Homework"
+      },
+      {
+        "question": "Favorite quote",
+        "answer": "&#39;Don&#34;t trust everything you read on the internet!&#39; -Abe Lincoln"
+      },
+      {
+        "question": "Advise to your 5th grade self",
+        "answer": "Save any video game stuff you have now because it&#34;ll be worth a fortune in like 10 years."
+      },
+      {
+        "question": "I cry while grading tests when...",
+        "answer": "You write 1\/0 instead of true\/false."
+      },
+      {
+        "question": "I am the best in the world at:",
+        "answer": "Probably nothing."
+      },
+      {
+        "question": "Mac (*barf*) or PC?",
+        "answer": "PC"
+      },
+      {
+        "question": "This one time at band camp...",
+        "answer": "Wait, do you want me to complete the quote?"
+      },
+      {
+        "question": "When I was 5 years old, I wanted to be a...",
+        "answer": "6 year old\/Ninja"
+      },
+      {
+        "question": "Advise to yourself while you were taking the class",
+        "answer": "Thank your TAs for all the hard work they do :)"
+      },
+      {
+        "question": "Best Joke",
+        "answer": "Two fish are in a tank and one says to the other &#39;How the hell do you drive this thing?&#39;"
+      }
+    ]
+  },
+  {
+    "gtUsername": "rhurst8",
+    "name": "Rachel Hurst",
+    "major": "3rd Year Computer Science",
+    "section": {
+      "section": "C05",
+      "location": "Cherry Emerson 320",
+      "time": "W 6:00 pm - 7:15 pm"
+    },
+    "helpDesk": [
+      {
+        "day": "monday",
+        "time": "5 PM - 6 PM"
+      },
+      {
+        "day": "thursday",
+        "time": "3 PM - 4 PM"
+      },
+      {
+        "day": "friday",
+        "time": "2 PM - 3 PM"
+      }
+    ],
+    "title": "",
+    "funFacts": [
+      {
+        "question": "Favorite Matlab Function",
+        "answer": "Makevase"
+      },
+      {
+        "question": "Favorite Hashtag",
+        "answer": "#poundsign"
+      },
+      {
+        "question": "Favorite Homework Problem",
+        "answer": "All of them"
+      },
+      {
+        "question": "Hobbies",
+        "answer": "running, coffee drinking, sleeping"
+      },
+      {
+        "question": "Most embarrassing story from middle school",
+        "answer": "All of it"
+      },
+      {
+        "question": "Team sum(mask) or team length(vec(mask))",
+        "answer": "sum(mask)"
+      },
+      {
+        "question": "Pro switch or anti switch",
+        "answer": "anti switch"
+      },
+      {
+        "question": "Most embarrassing recitation story",
+        "answer": "I wish I had a good answer for this"
+      },
+      {
+        "question": "Which team are you on?",
+        "answer": "Test Team"
+      },
+      {
+        "question": "Advise to your 5th grade self",
+        "answer": "Don&#34;t worry you&#34;ll end up alright"
+      },
+      {
+        "question": "I cry while grading tests when...",
+        "answer": "People use loops and it isn&#34;t necessary"
+      },
+      {
+        "question": "Favorite Song",
+        "answer": "Ain&#34;t no man"
+      },
+      {
+        "question": "I am the best in the world at:",
+        "answer": "Being me yuh"
+      },
+      {
+        "question": "Mac (*barf*) or PC?",
+        "answer": "PC"
+      },
+      {
+        "question": "This one time at band camp...",
+        "answer": "I cried because I was quads and weak"
+      },
+      {
+        "question": "When I was 5 years old, I wanted to be a...",
+        "answer": "a chemical engineer no joke."
+      },
+      {
+        "question": "Advise to yourself while you were taking the class",
+        "answer": "Start homework earlier"
+      },
+      {
+        "question": "Advice to yourself while you were taking the class",
+        "answer": "DO THAT HOMEWORK EALRY"
+      }
+    ]
+  },
+  {
+    "gtUsername": "tpatel85",
+    "name": "Tej Patel",
+    "major": "2nd Year Computer Engineering",
+    "section": {
+      "section": "A02",
+      "location": "Van Leer C240",
+      "time": "W 6:00 pm - 7:15 pm"
+    },
+    "helpDesk": [
+      {
+        "day": "monday",
+        "time": "7 PM - 8 PM"
+      },
+      {
+        "day": "tuesday",
+        "time": "2 PM - 3 PM"
+      },
+      {
+        "day": "tuesday",
+        "time": "4 PM - 5 PM"
+      }
+    ],
+    "title": "",
+    "funFacts": [
+      {
+        "question": "Favorite Matlab Function",
+        "answer": "spy"
+      },
+      {
+        "question": "Favorite Hashtag",
+        "answer": "#m3"
+      },
+      {
+        "question": "Hobbies",
+        "answer": "Working on cars, driving cars, riding motorcycles"
+      },
+      {
+        "question": "Most embarrassing story from middle school",
+        "answer": "All of it."
+      },
+      {
+        "question": "Team sum(mask) or team length(vec(mask))",
+        "answer": "length(vec(mask))"
+      },
+      {
+        "question": "Pro switch or anti switch",
+        "answer": "Pro switch"
+      },
+      {
+        "question": "Most embarrassing recitation story",
+        "answer": "Lost the MATLAB window in-between two screens"
+      },
+      {
+        "question": "Which team are you on?",
+        "answer": "Test Team"
+      },
+      {
+        "question": "Favorite quote",
+        "answer": "&#39;Dude, I almost had you!&#39;"
+      },
+      {
+        "question": "I am the best in the world at:",
+        "answer": "driving."
+      },
+      {
+        "question": "Mac (*barf*) or PC?",
+        "answer": "PC"
+      },
+      {
+        "question": "When I was 5 years old, I wanted to be a...",
+        "answer": "Truck Driver"
+      },
+      {
+        "question": "Advise to yourself while you were taking the class",
+        "answer": "Do all the practice tests."
+      },
+      {
+        "question": "Favorite Homework Problem",
+        "answer": "The Project Homework"
+      },
+      {
+        "question": "Advice to your 5th grade self",
+        "answer": "Middle school won&#34;t be fun."
+      },
+      {
+        "question": "Advice to yourself while you were taking the class",
+        "answer": "Study regularly and do all the homework."
+      },
+      {
+        "question": "I cry while grading tests when...",
+        "answer": "The page is blank."
+      },
+      {
+        "question": "Favorite Song",
+        "answer": "Africa by Toto"
+      },
+      {
+        "question": "This one time at band camp...",
+        "answer": "I didn&#34;t go to camp."
+      }
+    ]
+  },
+  {
+    "gtUsername": "tabraham7",
+    "name": "Tobin Abraham",
+    "major": "4th Year Industrial Engineering",
+    "section": {
+      "section": "A03",
+      "location": "Van Leer C240",
+      "time": "R 4:30 pm - 5:45 pm"
+    },
+    "helpDesk": [
+      {
+        "day": "tuesday",
+        "time": "4 PM - 6 PM"
+      },
+      {
+        "day": "friday",
+        "time": "3 PM - 4 PM"
+      }
+    ],
+    "title": "",
+    "funFacts": [
+      {
+        "question": "Favorite Matlab Function",
+        "answer": "why"
+      },
+      {
+        "question": "Hobbies",
+        "answer": "Ping Pong, "
+      },
+      {
+        "question": "Team sum(mask) or team length(vec(mask))",
+        "answer": "just sum(mask) it."
+      },
+      {
+        "question": "Pro switch or anti switch",
+        "answer": "Pro Switch"
+      },
+      {
+        "question": "Most embarrassing recitation story",
+        "answer": "Teasing everyone how to solve a problem then actually forgetting how to solve the problem yourself."
+      },
+      {
+        "question": "Which team are you on?",
+        "answer": "Test Team"
+      },
+      {
+        "question": "Favorite quote",
+        "answer": "&#39;Did you ever hear the tragedy of Darth Plagueis the Wise? I thought not. It&#34;s not a story the Jedi would tell you. It&#34;s a Sith legend. Darth Plagueis was a Dark Lord of the Sith, so powerful and so wise he could use the Force to influence the midichlorians to create life... He had such a knowledge of the dark side that he could even keep the ones he cared about from dying. The dark side of the Force is a pathway to many abilities some consider to be unnatural. He became so powerful... the only thing he was afraid of was losing his power, which eventually, of course, he did. Unfortunately, he taught his apprentice everything he knew, then his apprentice killed him in his sleep. Ironic, he could save others from death, but not himself.&#39; - Chancellor Palpatine"
+      },
+      {
+        "question": "I cry while grading tests when...",
+        "answer": "The student didn&#34;t even write anything"
+      },
+      {
+        "question": "Favorite Song",
+        "answer": "Don&#34;t Stop Me Now - Queen"
+      },
+      {
+        "question": "I am the best in the world at:",
+        "answer": "Being Optimistic"
+      },
+      {
+        "question": "Mac (*barf*) or PC?",
+        "answer": "PC"
+      },
+      {
+        "question": "When I was 5 years old, I wanted to be a...",
+        "answer": "Teen Titan."
+      },
+      {
+        "question": "Advise to yourself while you were taking the class",
+        "answer": "Stop playing Smash"
+      },
+      {
+        "question": "Favorite Homework Problem",
+        "answer": "criminalMinds"
+      },
+      {
+        "question": "Most embarrassing story from middle school",
+        "answer": "nah fam"
+      },
+      {
+        "question": "Advice to your 5th grade self",
+        "answer": "Keep dreaming dude. You will get there."
+      },
+      {
+        "question": "Advice to yourself while you were taking the class",
+        "answer": "Should&#34;ve realize that homework was a thing before week 3."
+      }
+    ]
+  },
+  {
+    "gtUsername": "twolfe8",
+    "name": "Triton Wolfe",
+    "major": "3rd Year Chemical &#34;amp; Biomolecular Engineering",
+    "section": {
+      "section": "A05",
+      "location": "Van Leer C340",
+      "time": "W 4:30 pm - 5:45 pm"
+    },
+    "helpDesk": [
+      {
+        "day": "tuesday",
+        "time": "2 PM - 3 PM"
+      },
+      {
+        "day": "thursday",
+        "time": "6 PM - 8 PM"
+      }
+    ],
+    "title": "",
+    "funFacts": [
+      {
+        "question": "Favorite Matlab Function",
+        "answer": "why(2)"
+      },
+      {
+        "question": "Favorite Hashtag",
+        "answer": "#me_irl"
+      },
+      {
+        "question": "Favorite Homework Problem",
+        "answer": "any maze problem"
+      },
+      {
+        "question": "Hobbies",
+        "answer": "Violin, Reading, and National Parks"
+      },
+      {
+        "question": "Most embarrassing story from middle school",
+        "answer": "my nickname was Twuffles for a bit, it was a mix of T-wolfe and fluffy hair."
+      },
+      {
+        "question": "Team sum(mask) or team length(vec(mask))",
+        "answer": "sum(mask) all day e&#34;rey day"
+      },
+      {
+        "question": "Pro switch or anti switch",
+        "answer": "Pro switch all day e&#34;rey day"
+      },
+      {
+        "question": "Most embarrassing recitation story",
+        "answer": "A few of my friends sat in on my recitation, enough said."
+      },
+      {
+        "question": "Which team are you on?",
+        "answer": "homework team&#34;s teamwork makes the homework team dream work"
+      },
+      {
+        "question": "Favorite quote",
+        "answer": "&#39;Success is not final, failure is not fatal, it is the courage to continue that counts&#39; -Winston Churchill"
+      },
+      {
+        "question": "Advise to your 5th grade self",
+        "answer": "The answer to number 16 is C"
+      },
+      {
+        "question": "I cry while grading tests when...",
+        "answer": "you loop instead of just masking"
+      },
+      {
+        "question": "Favorite Song",
+        "answer": "Venus Doom -HIM"
+      },
+      {
+        "question": "I am the best in the world at:",
+        "answer": "inventing made up scenarios in my head when im actually supposed to be paying attention"
+      },
+      {
+        "question": "Mac (*barf*) or PC?",
+        "answer": "PC nation"
+      },
+      {
+        "question": "This one time at band camp...",
+        "answer": "I was in orchestra"
+      },
+      {
+        "question": "When I was 5 years old, I wanted to be a...",
+        "answer": "Matlab TA, what higher calling is there?"
+      },
+      {
+        "question": "Advise to yourself while you were taking the class",
+        "answer": "Stop screwing around with random functions and just do the hw."
+      },
+      {
+        "question": "Best Joke",
+        "answer": "r\/Funny, best joke of a subreddit I know"
+      },
+      {
+        "question": "Advice to your 5th grade self",
+        "answer": "Triton, at 8am someone poisons the coffee. Dont drink the coffee."
+      },
+      {
+        "question": "Advice to yourself while you were taking the class",
+        "answer": "just do the hw, don&#34;t try and fit it in 3 lines of code."
+      }
+    ]
+  },
+  {
+    "gtUsername": "vpuligundla3",
+    "name": "Virinchi Puligundla",
+    "major": "2nd Year Aerospace Engineering",
+    "section": {
+      "section": "D03",
+      "location": "Klaus 1447",
+      "time": "W 6:00 pm - 7:15 pm"
+    },
+    "helpDesk": [
+      {
+        "day": "monday",
+        "time": "3 PM - 4 PM"
+      },
+      {
+        "day": "thursday",
+        "time": "2 PM - 4 PM"
+      }
+    ],
+    "title": "",
+    "funFacts": [
+      {
+        "question": "Favorite Matlab Function",
+        "answer": "sum()"
+      },
+      {
+        "question": "Favorite Hashtag",
+        "answer": "#tech"
+      },
+      {
+        "question": "Hobbies",
+        "answer": "Doing my homework"
+      },
+      {
+        "question": "Which team are you on?",
+        "answer": "Test Team"
+      },
+      {
+        "question": "When I was 5 years old, I wanted to be a...",
+        "answer": "Aerospace Engineer"
+      }
+    ]
+  },
+  {
+    "gtUsername": "aho41",
+    "name": "Angela Ho",
+    "major": "4th Year Chemical Engineering",
+    "section": {
+      "section": "C01",
+      "location": "Van Leer C340",
+      "time": "W 6:00 pm - 7:15 pm"
+    },
+    "helpDesk": [
+      {
+        "day": "monday",
+        "time": "2 PM - 3 PM"
+      },
+      {
+        "day": "tuesday",
+        "time": "3 PM - 4 PM"
+      },
+      {
+        "day": "tuesday",
+        "time": "6 PM - 7 PM"
+      }
+    ],
+    "title": "",
+    "funFacts": [
+      {
+        "question": "Most embarrassing story from middle school",
+        "answer": "Uh middle school. Enough said."
+      },
+      {
+        "question": "Which team are you on?",
+        "answer": "Test team, best team!"
+      },
+      {
+        "question": "I cry while grading tests when...",
+        "answer": "I see four nested for loops written in cursive. "
+      }
+    ]
+  },
+  {
+    "gtUsername": "rtayal6",
+    "name": "RJ Tayal",
+    "major": "3rd Year Computer Science",
+    "section": {
+      "section": "1171",
+      "location": "CoC 101",
+      "time": "M 6:00 pm - 7:15 pm"
+    },
+    "helpDesk": [
+      {
+        "day": "monday",
+        "time": "5 PM - 6 PM"
+      },
+      {
+        "day": "tuesday",
+        "time": "2 PM - 4 PM"
+      }
+    ],
+    "title": "",
+    "funFacts": [
+      
+    ]
+  },
+  {
+    "gtUsername": "durli3",
+    "name": "Daniel Urli",
+    "major": "2nd Year MSE",
+    "section": {
+      "section": "B01",
+      "location": "Cherry Emerson 320",
+      "time": "R 4:30 pm - 5:45 pm"
+    },
+    "helpDesk": [
+      {
+        "day": "monday",
+        "time": "2 PM - 3 PM"
+      },
+      {
+        "day": "friday",
+        "time": "2 PM - 4 PM"
+      }
+    ],
+    "title": "",
+    "funFacts": [
+      {
+        "question": "Favorite Matlab Function",
+        "answer": "why"
+      },
+      {
+        "question": "Favorite Homework Problem",
+        "answer": "celery"
+      },
+      {
+        "question": "Team sum(mask) or team length(vec(mask))",
+        "answer": "length(vec(mask))"
+      },
+      {
+        "question": "Which team are you on?",
+        "answer": "Test Team!!!"
+      },
+      {
+        "question": "Advice to yourself while you were taking the class",
+        "answer": "Start the homework early!"
+      }
+    ]
+  },
+  {
+    "gtUsername": "kandraos3",
+    "name": "Karl Andraos",
+    "major": "2nd Year Mechanical Engineering",
+    "section": {
+      "section": "B06",
+      "location": "Klaus 1447",
+      "time": "W 4:30 pm - 5:45 pm"
+    },
+    "helpDesk": [
+      {
+        "day": "monday",
+        "time": "3 PM - 4 PM"
+      },
+      {
+        "day": "tuesday",
+        "time": "3 PM - 5 PM"
+      }
+    ],
+    "title": "",
+    "funFacts": [
+      {
+        "question": "Favorite Matlab Function",
+        "answer": "fifteen"
+      },
+      {
+        "question": "Favorite Homework Problem",
+        "answer": "cryptex"
+      },
+      {
+        "question": "Hobbies",
+        "answer": "Soccer, Skiing, Rubik&#34;s cubes, and of course, MATLAB"
+      },
+      {
+        "question": "Team sum(mask) or team length(vec(mask))",
+        "answer": "sum(mask)"
+      },
+      {
+        "question": "Favorite quote",
+        "answer": "&#39;Life is short, smile while you still have teeth&#39;"
+      },
+      {
+        "question": "Advice to your 5th grade self",
+        "answer": "Stop being stupid"
+      },
+      {
+        "question": "Favorite Song",
+        "answer": "Legacy - Eminem"
+      },
+      {
+        "question": "Mac (*barf*) or PC?",
+        "answer": "Of course not PC"
+      },
+      {
+        "question": "When I was 5 years old, I wanted to be a...",
+        "answer": "Real Madrid soccer player"
+      }
+    ]
+  },
+  {
+    "gtUsername": "prathaur3",
+    "name": "Prithvi Rathaur",
+    "major": "3rd Year Mechanical Engineering",
+    "section": {
+      "section": "B05",
+      "location": "Arch West 258",
+      "time": "R 6:00 pm - 7:15 pm"
+    },
+    "helpDesk": [
+      {
+        "day": "tuesday",
+        "time": "6 PM - 7 PM"
+      },
+      {
+        "day": "wednesday",
+        "time": "5 PM - 6 PM"
+      },
+      {
+        "day": "thursday",
+        "time": "5 PM - 6 PM"
+      }
+    ],
+    "title": "",
+    "funFacts": [
+      {
+        "question": "Hobbies",
+        "answer": "Basketball"
+      },
+      {
+        "question": "Team sum(mask) or team length(vec(mask))",
+        "answer": "Team sum(mask)"
+      },
+      {
+        "question": "Pro switch or anti switch",
+        "answer": "anti switch"
+      },
+      {
+        "question": "Favorite quote",
+        "answer": "Once you know what failure feels like, determination chases success - Kobe Bryant"
+      },
+      {
+        "question": "Favorite Song",
+        "answer": "Champions - G.O.O.D. Music"
+      },
+      {
+        "question": "Mac (*barf*) or PC?",
+        "answer": "Mac"
+      },
+      {
+        "question": "When I was 5 years old, I wanted to be a...",
+        "answer": "Astronaut"
+      }
+    ]
+  },
+  {
+    "gtUsername": "mmurphy87",
+    "name": "Mason Murphy",
+    "major": "2nd Year Computer Engineering",
+    "section": {
+      "section": "B04",
+      "location": "Arch East 207",
+      "time": "R 4:30 pm - 5:45 pm"
+    },
+    "helpDesk": [
+      {
+        "day": "tuesday",
+        "time": "2 PM - 3 PM"
+      },
+      {
+        "day": "thursday",
+        "time": "6 PM - 8 PM"
+      }
+    ],
+    "title": "",
+    "funFacts": [
+      {
+        "question": "Favorite Matlab Function",
+        "answer": "eml_asteroids"
+      },
+      {
+        "question": "Favorite Homework Problem",
+        "answer": "shapey"
+      },
+      {
+        "question": "Hobbies",
+        "answer": "Tennis, VIdeo games, Coding Matlab"
+      },
+      {
+        "question": "Favorite quote",
+        "answer": "&#39;Whatever you are, be a good one.&#39; - Abraham Lincoln"
+      },
+      {
+        "question": "Favorite Song",
+        "answer": "Weight of Love by The Black Keys"
+      },
+      {
+        "question": "I am the best in the world at:",
+        "answer": "Mario Kart DS"
+      },
+      {
+        "question": "Mac (*barf*) or PC?",
+        "answer": "PC"
+      },
+      {
+        "question": "When I was 5 years old, I wanted to be a...",
+        "answer": "Garbage Man"
+      }
+    ]
+  },
+  {
+    "gtUsername": "acollins67",
+    "name": "Anna Rose Collins",
+    "major": "2nd Year Environmental Engineering",
+    "section": {
+      "section": "A04",
+      "location": "Van Leer C341",
+      "time": "R 6:00 pm - 7:15 pm"
+    },
+    "helpDesk": [
+      {
+        "day": "monday",
+        "time": "7 PM - 8 PM"
+      },
+      {
+        "day": "tuesday",
+        "time": "6 PM - 8 PM"
+      }
+    ],
+    "title": "",
+    "funFacts": [
+      {
+        "question": "Favorite Matlab Function",
+        "answer": "strsplit "
+      },
+      {
+        "question": "Favorite Hashtag",
+        "answer": "#"
+      },
+      {
+        "question": "Favorite Homework Problem",
+        "answer": "ascii garden"
+      },
+      {
+        "question": "Hobbies",
+        "answer": "playing snare drum in the marching band, working out, making funny videos with my brother"
+      },
+      {
+        "question": "Most embarrassing story from middle school",
+        "answer": "My teacher asked the class, what does milk contain that starts with a c? I raised my hand and said &#39;cheese&#39;...It was actually calcium, in case you were wondering."
+      },
+      {
+        "question": "Team sum(mask) or team length(vec(mask))",
+        "answer": "sum(mask) all the way!!!"
+      },
+      {
+        "question": "Pro switch or anti switch",
+        "answer": "anti switch"
+      },
+      {
+        "question": "Most embarrassing recitation story",
+        "answer": "I&#34;ve never taught a recitation, but while in recitation, my TA thought my name was Anna Rice"
+      },
+      {
+        "question": "Which team are you on?",
+        "answer": "test team (hopefully) "
+      },
+      {
+        "question": "Favorite quote",
+        "answer": "Pain is inevitable, suffering is optional. -Buddha "
+      },
+      {
+        "question": "Advice to your 5th grade self",
+        "answer": "You&#34;re going to win the 5th grade spelling bee...don&#34;t stress about it. "
+      },
+      {
+        "question": "Advice to yourself while you were taking the class",
+        "answer": "Don&#34;t be so stressed! MATLAB is fun! "
+      },
+      {
+        "question": "Best Joke",
+        "answer": "Want to hear two short jokes, and a long joke? Joke, joke, jooooooooooooooooooooooooooooooooooke."
+      },
+      {
+        "question": "I cry while grading tests when...",
+        "answer": "I remember when I took that same test."
+      },
+      {
+        "question": "Favorite Song",
+        "answer": "&#39;Santeria&#39; by Sublime"
+      },
+      {
+        "question": "I am the best in the world at:",
+        "answer": "making witty commentary "
+      },
+      {
+        "question": "Mac (*barf*) or PC?",
+        "answer": "PC"
+      },
+      {
+        "question": "This one time at band camp...",
+        "answer": "I slipped on the field because it had just rained, while marching backwards. Only my pride was damaged, however, and I marched the rest of that set with slightly soggy shoes. Another time, a game of soccer in the band room turned into a soccer ball through the band room ceiling."
+      },
+      {
+        "question": "When I was 5 years old, I wanted to be a...",
+        "answer": "doctor"
+      }
+    ]
+  },
+  {
+    "gtUsername": "mibrahim41",
+    "name": "Michael Ibrahim",
+    "major": "2nd Year Mechanical Engineering",
+    "section": {
+      "section": "D05",
+      "location": "Mason 5134",
+      "time": "R 4:30 pm - 7:15 pm"
+    },
+    "helpDesk": [
+      {
+        "day": "monday",
+        "time": "2 PM - 3 PM"
+      },
+      {
+        "day": "friday",
+        "time": "2 PM - 4 PM"
+      }
+    ],
+    "title": "",
+    "funFacts": [
+      {
+        "question": "Favorite Matlab Function",
+        "answer": "sprintf"
+      },
+      {
+        "question": "Favorite Hashtag",
+        "answer": "#LickTheStampAndSendIt"
+      },
+      {
+        "question": "Team sum(mask) or team length(vec(mask))",
+        "answer": "sum(mask)"
+      },
+      {
+        "question": "Which team are you on?",
+        "answer": "Homework team"
+      },
+      {
+        "question": "Favorite quote",
+        "answer": "&#39;School was very hard (gang)&#39; -Tay K"
+      },
+      {
+        "question": "Best Joke",
+        "answer": "my life lol"
+      },
+      {
+        "question": "Mac (*barf*) or PC?",
+        "answer": "PC"
+      },
+      {
+        "question": "When I was 5 years old, I wanted to be a...",
+        "answer": "6 year old"
+      }
+    ]
+  },
+  {
+    "gtUsername": "jmontgomery43",
+    "name": "Jake Montgomery",
+    "major": "2nd Year Chemical Engineering",
+    "section": {
+      "section": "C02",
+      "location": "Howey L5",
+      "time": "W 4:30 pm - 5:45 pm"
+    },
+    "helpDesk": [
+      {
+        "day": "monday",
+        "time": "6 PM - 8 PM"
+      },
+      {
+        "day": "tuesday",
+        "time": "7 PM - 8 PM"
+      }
+    ],
+    "title": "",
+    "funFacts": [
+      {
+        "question": "Favorite Matlab Function",
+        "answer": "iscell"
+      },
+      {
+        "question": "Favorite Hashtag",
+        "answer": "#1LetterWrongMovie"
+      },
+      {
+        "question": "Favorite Homework Problem",
+        "answer": "myCabbages"
+      },
+      {
+        "question": "Hobbies",
+        "answer": "Acting, longboarding"
+      },
+      {
+        "question": "Most embarrassing story from middle school",
+        "answer": "So I was in my middle school musical Into the Woods and when I walked on stage my foot got caught on a rope and I fell face first on the stage and my shoe came off so I got up grabbed my shoe and continued the scene holding my shoe the entire time instead of just putting it back on."
+      },
+      {
+        "question": "Team sum(mask) or team length(vec(mask))",
+        "answer": "sum(mask)"
+      },
+      {
+        "question": "Pro switch or anti switch",
+        "answer": "pro"
+      },
+      {
+        "question": "Most embarrassing recitation story",
+        "answer": "N\/A"
+      },
+      {
+        "question": "Which team are you on?",
+        "answer": "idk"
+      },
+      {
+        "question": "Favorite quote",
+        "answer": "&#39;I&#34;d rather make mistakes than make nothing at all&#39;"
+      },
+      {
+        "question": "Advice to your 5th grade self",
+        "answer": "Be humble, sit down"
+      },
+      {
+        "question": "Advice to yourself while you were taking the class",
+        "answer": "uhhhhhh vectors?"
+      },
+      {
+        "question": "Best Joke",
+        "answer": "My life"
+      },
+      {
+        "question": "I cry while grading tests when...",
+        "answer": "the answer is just totally wrong"
+      },
+      {
+        "question": "Favorite Song",
+        "answer": "&#39;I&#34;m Lindana and I Wanna have Fun&#39;"
+      },
+      {
+        "question": "I am the best in the world at:",
+        "answer": "complaining"
+      },
+      {
+        "question": "Mac (*barf*) or PC?",
+        "answer": "PC"
+      },
+      {
+        "question": "This one time at band camp...",
+        "answer": "can&#34;t relate"
+      },
+      {
+        "question": "When I was 5 years old, I wanted to be a...",
+        "answer": "cool (that wish never came true)"
+      }
+    ]
+  },
+  {
+    "gtUsername": "schang309",
+    "name": "Samuel Chang",
+    "major": "2nd Year Mechanical Engineering",
+    "section": {
+      "section": "1171",
+      "location": "CoC 101",
+      "time": "M 6:00 pm - 7:15 pm"
+    },
+    "helpDesk": [
+      {
+        "day": "tuesday",
+        "time": "4 PM - 6 PM"
+      },
+      {
+        "day": "thursday",
+        "time": "4 PM - 5 PM"
+      }
+    ],
+    "title": "",
+    "funFacts": [
+      {
+        "question": "Hobbies",
+        "answer": "Photography, soccer, and eating!"
+      },
+      {
+        "question": "Team sum(mask) or team length(vec(mask))",
+        "answer": "sum(mask)"
+      },
+      {
+        "question": "Favorite quote",
+        "answer": "&#39;60% of the time, it works every time.&#39;"
+      },
+      {
+        "question": "Advice to yourself while you were taking the class",
+        "answer": "Don&#34;t be afraid to ask for help, and see the professors! They&#34;re more than willing to help you."
+      },
+      {
+        "question": "Favorite Song",
+        "answer": "My Way - Frank Sinatra "
+      },
+      {
+        "question": "I am the best in the world at:",
+        "answer": "Losing my wallet..."
+      },
+      {
+        "question": "Mac (*barf*) or PC?",
+        "answer": "PC, but I really like how Macbooks look >.>"
+      },
+      {
+        "question": "When I was 5 years old, I wanted to be a...",
+        "answer": "Fireman, Police man, and a baseball player."
+      }
+    ]
+  },
+  {
+    "gtUsername": "anwakanma3",
+    "name": "Amarachi Nwakanma",
+    "major": "2nd Year Biomedical Engineering",
+    "section": {
+      "section": "B05",
+      "location": "Arch West 258",
+      "time": "R 6:00 pm - 7:15 pm"
+    },
+    "helpDesk": [
+      {
+        "day": "tuesday",
+        "time": "5 PM - 7 PM"
+      },
+      {
+        "day": "tuesday",
+        "time": "7 PM - 8 PM"
+      }
+    ],
+    "title": "",
+    "funFacts": [
+      {
+        "question": "Favorite Matlab Function",
+        "answer": "strtok cuz it makes sense"
+      },
+      {
+        "question": "Favorite Hashtag",
+        "answer": "#Hashtag"
+      },
+      {
+        "question": "Hobbies",
+        "answer": "Netflix, Sleeping, Music"
+      },
+      {
+        "question": "Team sum(mask) or team length(vec(mask))",
+        "answer": "sum(mask)"
+      },
+      {
+        "question": "Which team are you on?",
+        "answer": "My Team?"
+      },
+      {
+        "question": "Favorite quote",
+        "answer": "The question isn&#34;t who&#34;s gonna let me it&#34;s who&#34;s gonna stop me"
+      },
+      {
+        "question": "Advice to your 5th grade self",
+        "answer": "Take the risk or lose the chance"
+      },
+      {
+        "question": "Advice to yourself while you were taking the class",
+        "answer": "Stay on top of your homework it&#34;s so easy to get overwhelmed"
+      },
+      {
+        "question": "Best Joke",
+        "answer": "What kind of head injury does a band person get? ------ A Percussion"
+      },
+      {
+        "question": "Favorite Song",
+        "answer": "APES**T - The Carters for now..."
+      },
+      {
+        "question": "Mac (*barf*) or PC?",
+        "answer": "Mac (ALL THE WAY)"
+      },
+      {
+        "question": "This one time at band camp...",
+        "answer": "incest???"
+      }
+    ]
+  },
+  {
+    "gtUsername": "mmarzano6",
+    "name": "Mike Marzano",
+    "major": "3rd Year Computer Enginnering",
+    "section": {
+      "section": "A04",
+      "location": "Van Leer C341",
+      "time": "R 6:00 pm - 7:15 pm"
+    },
+    "helpDesk": [
+      {
+        "day": "tuesday",
+        "time": "3 PM - 5 PM"
+      },
+      {
+        "day": "thursday",
+        "time": "4 PM - 5 PM"
+      }
+    ],
+    "title": "",
+    "funFacts": [
+      {
+        "question": "Favorite Matlab Function",
+        "answer": "help"
+      },
+      {
+        "question": "Favorite Homework Problem",
+        "answer": "Towers of Hanoi"
+      },
+      {
+        "question": "Hobbies",
+        "answer": "Outdoors, Reading, Guitar, Trumpet"
+      },
+      {
+        "question": "Team sum(mask) or team length(vec(mask))",
+        "answer": "sum(mask)"
+      },
+      {
+        "question": "Advice to your 5th grade self",
+        "answer": "Don&#34;t let your hair get so long next year."
+      },
+      {
+        "question": "Advice to yourself while you were taking the class",
+        "answer": "Start the Homework as soon as it is released."
+      },
+      {
+        "question": "I cry while grading tests when...",
+        "answer": "Students do things the hard way"
+      },
+      {
+        "question": "Mac (*barf*) or PC?",
+        "answer": "PC"
+      },
+      {
+        "question": "This one time at band camp...",
+        "answer": "I did something that was delicious, different, and I wore comfortable shoes."
+      }
+    ]
+  },
+  {
+    "gtUsername": "jmiles35",
+    "name": "Austin Miles",
+    "major": "2nd Year Computer Science",
+    "section": {
+      "section": "C03",
+      "location": "CoC 17",
+      "time": "R 4:30 pm - 5:45 pm"
+    },
+    "helpDesk": [
+      {
+        "day": "monday",
+        "time": "7 PM - 8 PM"
+      },
+      {
+        "day": "tuesday",
+        "time": "6 PM - 8 PM"
+      }
+    ],
+    "title": "",
+    "funFacts": [
+      {
+        "question": "Favorite Matlab Function",
+        "answer": "sprintf()"
+      },
+      {
+        "question": "Favorite Hashtag",
+        "answer": "#FitFam"
+      },
+      {
+        "question": "Favorite Homework Problem",
+        "answer": "Luigi&#34;s Mansion"
+      },
+      {
+        "question": "Hobbies",
+        "answer": "Guitar, Lifting, Audiobooks, Poker"
+      },
+      {
+        "question": "Most embarrassing story from middle school",
+        "answer": "I made a &#39;taser&#39; out of an Altoids can and a disposable camera, and didn&#34;t realize it would get me into serious trouble. My brother and his friends called me &#39;Taser&#39; after that. "
+      },
+      {
+        "question": "Team sum(mask) or team length(vec(mask))",
+        "answer": "length(vec(mask))"
+      },
+      {
+        "question": "Pro switch or anti switch",
+        "answer": "Pro Switch"
+      },
+      {
+        "question": "Most embarrassing recitation story",
+        "answer": "Looking forward to making one!"
+      },
+      {
+        "question": "Which team are you on?",
+        "answer": "Test Team"
+      },
+      {
+        "question": "Favorite quote",
+        "answer": "&#39;Be a simple kind of man&#39; - Lynyrd Skynyrd"
+      },
+      {
+        "question": "Advice to your 5th grade self",
+        "answer": "Hang out with friends more!"
+      },
+      {
+        "question": "Advice to yourself while you were taking the class",
+        "answer": "Do every extra credit homework problem, for practice and for the extra points. "
+      },
+      {
+        "question": "Best Joke",
+        "answer": "Why do people go to Australia? To have a high koala-ty vacation"
+      },
+      {
+        "question": "I cry while grading tests when...",
+        "answer": "students write me notes in the margins. "
+      },
+      {
+        "question": "Favorite Song",
+        "answer": "Have You Ever Seen the Rain - CCR"
+      },
+      {
+        "question": "I am the best in the world at:",
+        "answer": "Binge watching entire series of Netflix shows and staying up wayyyy too late doing so."
+      },
+      {
+        "question": "Mac (*barf*) or PC?",
+        "answer": "Definitely PC"
+      },
+      {
+        "question": "This one time at band camp...",
+        "answer": "I met a cow that played the trumpet. He was a real moo-sician!"
+      },
+      {
+        "question": "When I was 5 years old, I wanted to be a...",
+        "answer": "a doctor."
+      }
+    ]
+  },
+  {
+    "gtUsername": "ksterling3",
+    "name": "Katie Sterling",
+    "major": "2nd Year Biomedical Engineering",
+    "section": {
+      "section": "A03",
+      "location": "Van Leer C240",
+      "time": "R 4:30 pm - 5:45 pm"
+    },
+    "helpDesk": [
+      {
+        "day": "monday",
+        "time": "7 PM - 8 PM"
+      },
+      {
+        "day": "tuesday",
+        "time": "6 PM - 8 PM"
+      }
+    ],
+    "title": "",
+    "funFacts": [
+      {
+        "question": "Hobbies",
+        "answer": "Tennis and Music"
+      },
+      {
+        "question": "Team sum(mask) or team length(vec(mask))",
+        "answer": "length(vec(mask))"
+      },
+      {
+        "question": "Which team are you on?",
+        "answer": "Test Team"
+      },
+      {
+        "question": "Favorite quote",
+        "answer": "&#39;I just like to smile - smiling&#34;s my favorite&#39; - Buddy the elf"
+      },
+      {
+        "question": "Advice to yourself while you were taking the class",
+        "answer": "Start the homework early!"
+      },
+      {
+        "question": "Favorite Song",
+        "answer": "Hello by Lionel Richie"
+      },
+      {
+        "question": "Mac (*barf*) or PC?",
+        "answer": "Mac"
+      }
+    ]
+  },
+  {
+    "gtUsername": "csabater3",
+    "name": "Carlos Sabater",
+    "major": "2nd Year Biomedical Engineering",
+    "section": {
+      "section": "A01",
+      "location": "Van Leer C241",
+      "time": "W 4:30 pm - 5:45 pm"
+    },
+    "helpDesk": [
+      {
+        "day": "monday",
+        "time": "3 PM - 4 PM"
+      },
+      {
+        "day": "thursday",
+        "time": "5 PM - 6 PM"
+      },
+      {
+        "day": "friday",
+        "time": "2 PM - 3 PM"
+      }
+    ],
+    "title": "",
+    "funFacts": [
+      {
+        "question": "Favorite Hashtag",
+        "answer": "#casuallylookingoffintothedistance"
+      },
+      {
+        "question": "Hobbies",
+        "answer": "Guitar, Soccer, Doodling, Poetry, Latin Dance"
+      },
+      {
+        "question": "Team sum(mask) or team length(vec(mask))",
+        "answer": "sum(mask)"
+      },
+      {
+        "question": "Most embarrassing recitation story",
+        "answer": "none...so far"
+      },
+      {
+        "question": "Which team are you on?",
+        "answer": "Test Team"
+      },
+      {
+        "question": "When I was 5 years old, I wanted to be a...",
+        "answer": "professional skateboarder"
+      }
+    ]
+  }
+]

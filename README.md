@@ -71,8 +71,6 @@ This workbook _must_ have the following information, though it can be in any ord
 * Title: The person's title, such as "Head TA"
 * Section: The section this person teaches, or blank for no section.
 
-> Note: If `Name` is the keyword `DELETE`, then the TA is **removed from the index. Be very sure!**
-
 ### Help Desk Hours
 
 This workbook _must_ have the following information:
@@ -102,6 +100,6 @@ how to rectify this, see `fun2standard`.
 
 This workbook _must_ have the following information:
 
-* Section Name: Must match exactly with the section in the Basic TA Information
-* Section Location: Where this section is located
-* Section Time: Formatted in accordance with the JSON specification
+* Name: Must match exactly with the section in the Basic TA Information
+* Location: Where this section is located
+* Time: Formatted in accordance with the JSON specification

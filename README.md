@@ -5,11 +5,35 @@ including (but not limited to):
 
 * Name
 * Picture
-* Hobbies
 * Fun Facts
 * Help Desk Hours
 * Contact Information
 * Basic Profile
+
+## Usage
+
+Using `convertToIndex` is relatively straightforward. You will need 4 Excel
+sheets, and optionally one JSON file.
+
+The four Excel sheets are detailed below, as well as the `teachers.json`
+optional input.
+
+1. First, download the Excel sheets and the previous `teachers.json`. It is recommended to rename the previous teachers.json to `teachers_previous.json`
+2. Run `convertToIndex`:
+
+``` matlab
+convertToIndex('path/to/basic.xlsx', 'path/to/helpdesk.xlsx', 'path/to/funfacts.xlsx', 'path/to/sections.xlsx', 'path/to/previous_teachers.json');
+```
+
+3. Upload the new `teachers.json` (which `convertToIndex` creates) to the server
+
+> Note: The path will be `/httpdocs/TAIndex/teachers.json`
+
+4. Upload any new pictures. Pictures must _always_ be named `<gtusername>.jpg`.
+
+> **Images**: Every TA has two images - a Headshot and a Background. To upload a Headshot,
+> upload the `<gtusername>.jpg` to `/httpdocs/TAIndex/images/TA_Pics/`. To upload a Background,
+> upload the `<gtusername>.jpg` to `/httpdocs/TAIndex/images/TAHorizontalPics/`.
 
 ## Loading Data
 
@@ -21,7 +45,7 @@ TA Data is to be organized into a JSON file called `teachers.json`. Below is a r
     "name": "George P. Burdell",
     "major": "3rd Year MATLAB Engineering",
     "section": {
-        "section": "SectionName",
+        "name": "SectionName",
         "location": "Section Location",
         "time": "D Start pm - End pm (example: W 4:30 pm - 5:45 pm)"
     },
@@ -39,7 +63,7 @@ TA Data is to be organized into a JSON file called `teachers.json`. Below is a r
     "funFacts": [
         {
             "question": "Question Text",
-            "answer": "Question Answer&#39; is how you put a quote (single and double)"
+            "answer": "Question Answer\"; is how you put a quote (double)"
         }
     ]
 }
@@ -50,14 +74,17 @@ you must use `convertToIndex.m`.
 
 ## `convertToIndex`
 
-`convertToIndex` takes in the three separate sources of data as Excel workbooks. The format of
+`convertToIndex` takes in the four separate sources of data as Excel workbooks. The format of
 these workbooks must strictly follow this specification, unless otherwise noted.
 
-The three workbooks provide:
+The four workbooks provide:
 * Basic TA information
 * Help Desk Hours
 * TA Fun Facts
 * TA Sections
+
+Optionally, you can also include an existing TA index package - the `teachers.json`.
+This will enable the function to use past answers for the Fun Facts.
 
 How each is read, and what this means for the end product, is detailed below.
 
@@ -67,9 +94,8 @@ This workbook _must_ have the following information, though it can be in any ord
 
 * GT Username: The person's standard GT Username (i.e., gburdell3)
 * Name: The person's full name
-* Major: The person's Major
+* Major: The person's Year & Major
 * Title: The person's title, such as "Head TA"
-* Section: The section this person teaches, or blank for no section.
 
 ### Help Desk Hours
 
@@ -79,9 +105,6 @@ This workbook _must_ have the following information:
 * Day: The Day this record represents for Help Desk
 * Start: The start time for this person's help desk, in 12 hour format, with or without leading zeros
 * Stop: The stop time for this person's help desk, in the same format as start.
-
-It is unlikely the original workbook will be in this format. There is a function called `help2standard` which will
-convert the HelpDesk workbook into this standard format - you should look at its documentation for more information.
 
 ### TA Fun Facts
 
@@ -94,7 +117,9 @@ This workbook _must_ have the following information:
 > Note: If **Answer** is the keyword `DELETE`, then the question answer pair is deleted from the existing bank.
 
 As with Help Desk Hours, it is unlikely the original workbook is in this format. For more information on
-how to rectify this, see `fun2standard`.
+how to rectify this, see `fun2standard`, a function included in `convertToIndex.m`.
+
+For more information, try `help convertToIndex`.
 
 ### TA Sections
 
@@ -103,3 +128,5 @@ This workbook _must_ have the following information:
 * Name: Must match exactly with the section in the Basic TA Information
 * Location: Where this section is located
 * Time: Formatted in accordance with the JSON specification
+* First TA: The GT Username of the First TA (or blank if nobody)
+* Second TA: The GT Username of the second TA (or blank if nobody)

@@ -106,7 +106,7 @@
                             </div>
                         </div>
                     </div>
-                */
+                 */
                 $tas = json_decode($tmp);
                 // For each TA, print example above
                 foreach ($tas as $ta) {
@@ -127,8 +127,8 @@
                         echo "<div class=\"position-badge\">" . $ta->title . "</div>";
                     }
                     echo "</div><div class=\"ta-info\" data-gt-username=\"" . $ta->gtUsername . "\"><div class=\"ta-name\" data-classInfo=\"";
-                    echo $ta->major . "\">" . $ta->name . "</div><div class=\"ta-section\" data-recitationLocation=\"";
-                    echo $ta->section->location . "\" data-recitationTime=\"" . $ta->section->time . "\">" . $ta->section->section . "</div>";
+                    echo htmlspecialchars($ta->major) . "\">" . htmlspecialchars($ta->name) . "</div><div class=\"ta-section\" data-recitationLocation=\"";
+                    echo $ta->section->location . "\" data-recitationTime=\"" . $ta->section->time . "\">" . $ta->section->name . "</div>";
                     echo "<div class=\"ta-help-desk\">";
                     // for each Help Desk, print:
                     foreach ($ta->helpDesk as $help) {
@@ -137,10 +137,10 @@
                     echo "</div><div class=\"TAFunFacts\">";
                     // for each Fun Fact, print:
                     foreach ($ta->funFacts as $fun) {
-                        echo "<div data-fun-question=\"" . $fun->question . "\" data-fun-answer=\"" . $fun->answer . "\"></div>";
+                        echo "<div data-fun-question=\"" . htmlspecialchars($fun->question) . "\" data-fun-answer=\"" . htmlspecialchars($fun->answer) . "\"></div>";
                     }
                     echo "</div></div>";
-                    $shortName = strtok($ta->name, " ");
+                    $shortName = htmlspecialchars(strtok($ta->name, " "));
                     echo "<div class=\"contact-section\"><div class=\"contact-title\">Contact " . $shortName . ":</div><div class=\"contact-list\">";
                     echo "<a title=\"desktop\" href=\"mailto:" . $ta->gtUsername . "@gatech.edu?subject=[CS1371]\" class=\"contact-item email\" data-email=\"" . $ta->gtUsername . "@gatech.edu\"></a>";
                     echo "<a href=\"https://mail.google.com/mail/?view=cm&fs=1&to=" . $ta->gtUsername . "@gatech.edu&su=[CS1371]\" class=\"contact-item gmail\"></a>";
@@ -172,10 +172,11 @@
             });
 
             function getRandomSubarray(arr, size) {
-                var shuffled = arr.slice(0), i = arr.length, temp, index;
+                const shuffled = arr.slice(0);
+                let i = arr.length;
                 while (i--) {
-                    index = Math.floor((i + 1) * Math.random());
-                    temp = shuffled[index];
+                    const index = Math.floor((i + 1) * Math.random());
+                    const temp = shuffled[index];
                     shuffled[index] = shuffled[i];
                     shuffled[i] = temp;
                 }
@@ -324,11 +325,11 @@
                                 return 4;
                             } else if (weight === "Course Manager") {
                                 return 5;
-                            } else if (weight === "HW Team STA") {
+                            } else if (weight === "Homework Team STA") {
                                 return 6;
                             } else if (weight === "Test Team STA") {
                                 return 7;
-                            } else if (weight === "Software Dev Manager") {
+                            } else if (weight === "Software Dev STA") {
                                 return 8;
                             }
                         } else {

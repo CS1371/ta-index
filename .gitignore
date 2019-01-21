@@ -1,0 +1,10 @@
+# Excel Files
+*.xls
+*.xlsx
+*.xlsm
+
+# JSON
+*.json
+
+# Misc
+.DS_Store

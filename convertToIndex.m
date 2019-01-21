@@ -239,22 +239,30 @@ tas = tas(inds);
 %   3. HW Team
 %   4. Test Team
 %   5. Software Dev
-smith = strcmpi({tas.gtUsername}, 'ds182');
-rogers = strcmpi({tas.name}, 'krogers34');
-others = strcmpi({tas.title}, 'Instructor') & ~(smith | rogers);
-head = strcmpi({tas.title}, 'Head TA');
-cm = strcmpi({tas.title}, 'Course Manager');
-hw = strcmpi({tas.title}, 'Homework Team STA');
-test = strcmpi({tas.title}, 'Test Team STA');
 soft = strcmpi({tas.title}, 'Software Dev STA');
-% switching does not invalidate mask!
 tas = [tas(soft); tas(~soft)];
+
+test = strcmpi({tas.title}, 'Test Team STA');
 tas = [tas(test); tas(~test)];
+
+hw = strcmpi({tas.title}, 'Homework Team STA');
 tas = [tas(hw); tas(~hw)];
+
+cm = strcmpi({tas.title}, 'Course Manager');
 tas = [tas(cm); tas(~cm)];
+
+head = strcmpi({tas.title}, 'Head TA');
 tas = [tas(head); tas(~head)];
+
+others = strcmpi({tas.title}, 'Instructor') & ...
+    ~(strcmpi({tas.gtUsername}, 'krogers34') | ...
+    (strcmpi({tas.gtUsername}, 'ds182')));
 tas = [tas(others); tas(~others)];
+
+rogers = strcmpi({tas.gtUsername}, 'krogers34');
 tas = [tas(rogers); tas(~rogers)];
+
+smith = strcmpi({tas.gtUsername}, 'ds182');
 tas = [tas(smith); tas(~smith)];
 % create teachers.json (unless requested)
 if nargout == 0

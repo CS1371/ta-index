@@ -173,6 +173,32 @@ for t = 1:numel(tas)
     end
     tmp = rmfield(tmp, 'start');
     tmp = rmfield(tmp, 'stop');
+    tmp = rmfield(tmp, 'gtUsername');
+    % decode day
+    % inner for loop is inefficient; but again, as stated above, not a huge
+    % deal.
+    for d = 1:numel(tmp)
+        switch lower(tmp(d).day)
+            case {'m', 'monday', 'mon'}
+                tmp(d).day = 'monday';
+            case {'t', 'tues', 'tue', 'tuesday'}
+                tmp(d).day = 'tuesday';
+            case {'w', 'wed', 'wednesday'}
+                tmp(d).day = 'wednesday';
+            case {'r', 'thu', 'thurs', 'thur', 'thursday'}
+                tmp(d).day = 'thursday';
+            case {'f', 'fri', 'friday'}
+                tmp(d).day = 'friday';
+                % not necessary
+            case {'s', 'sat', 'saturday'}
+                tmp(d).day = 'saturday';
+            case {'n', 'sun', 'sunday'}
+                tmp(d).day = 'sunday';
+            otherwise
+                % wot
+                % just leave...?
+        end
+    end
     tas(t).helpDesk = tmp;
 end
 % Decode fun facts.

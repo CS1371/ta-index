@@ -265,14 +265,16 @@
                 $("#popupLocation").html(recLocation);
                 $("#popupTime").html(recTime);
 
-                if(positionBadge.length && positionBadge.html().charAt(0)==='I' && switchPopupText){
+                if(positionBadge.length && positionBadge.html().charAt(0)==='I'){
                     $("#recitationTitle").html("Lecture");
                     $("#helpDeskTitle").html("Office Hours");
-                    switchPopupText = false;
-                }else if(!switchPopupText){
+                    $("#helpdeskInfo").hide();
+                    $("#recitationInfo").addClass("instructor");
+                } else {
                     $("#recitationTitle").html("Recitation");
                     $("#helpDeskTitle").html("Help Desk");
-                    switchPopupText = true;
+                    $("#helpdeskInfo").show();
+                    $("#recitationInfo").removeClass("instructor");
                 }
 
                 $("#popupCover").show();

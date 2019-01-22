@@ -437,7 +437,7 @@ body {
     border-top-right-radius: 3px;
 }
 
-#recitationInfo, #helpdeskInfo {
+#recitationInfo:not(.instructor), #helpdeskInfo:not(.instructor) {
     float:left;
     width: 50%;
 }

@@ -124,15 +124,15 @@
                     }
 
                     if (strlen($ta->title)) {
-                        echo "<div class=\"position-badge\">" . $ta->title . "</div>";
+                        echo "<div class=\"position-badge\">" . htmlspecialchars($ta->title) . "</div>";
                     }
                     echo "</div><div class=\"ta-info\" data-gt-username=\"" . $ta->gtUsername . "\"><div class=\"ta-name\" data-classInfo=\"";
                     echo htmlspecialchars($ta->major) . "\">" . htmlspecialchars($ta->name) . "</div><div class=\"ta-section\" data-recitationLocation=\"";
-                    echo $ta->section->location . "\" data-recitationTime=\"" . $ta->section->time . "\">" . $ta->section->name . "</div>";
+                    echo htmlspecialchars($ta->section->location) . "\" data-recitationTime=\"" . htmlspecialchars($ta->section->time) . "\">" . htmlspecialchars($ta->section->name) . "</div>";
                     echo "<div class=\"ta-help-desk\">";
                     // for each Help Desk, print:
                     foreach ($ta->helpDesk as $help) {
-                        echo "<div data-helpdesk-day=\"" . $help->day . "\" data-helpdesk-time=\"" . $help->time . "\"></div>";
+                        echo "<div data-helpdesk-day=\"" . htmlspecialchars($help->day) . "\" data-helpdesk-time=\"" . htmlspecialchars($help->time) . "\"></div>";
                     }
                     echo "</div><div class=\"TAFunFacts\">";
                     // for each Fun Fact, print:
